@@ -85,7 +85,6 @@ Sub StockAnalyst()
     ' Find the "Greatest % decrease"
     MaxDecrease = WorksheetFunction.Min(ws.Range("K:K"))
     ws.Cells(3, 17).Value = MaxDecrease
-    
     ' Find the row of the cell that contains MaxDecrease
     R2 = WorksheetFunction.Match(MaxDecrease, ws.Range("K:K"), 0)
     ws.Cells(3, 16).Value = ws.Cells(R2, 9).Value
@@ -93,7 +92,6 @@ Sub StockAnalyst()
     ' Find the "Greatest total volume"
     MaxTotal = WorksheetFunction.Max(ws.Range("L:L"))
     ws.Cells(4, 17).Value = MaxTotal
-    
     ' Find the row of the cell that contains MaxTotal
     R3 = WorksheetFunction.Match(MaxTotal, ws.Range("L:L"), 0)
     ws.Cells(4, 16).Value = ws.Cells(R3, 9).Value
