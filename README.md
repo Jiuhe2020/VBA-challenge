@@ -24,7 +24,7 @@ This project utilizes VBA scripting to analyze real stock market data.
 
 ## List of Content
 1. Screenshots for each year (2014-2016) of the results on the Multi Year Stock Data
-2. VBA-StockAnalyst.bas: the main VBA Script
+2. VBA-StockAnalyst.bas: the main VBA script
 ---
 ### Copyright
 Jiuhe Zhu © 2020. All Rights Reserved.
