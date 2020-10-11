@@ -1,4 +1,5 @@
 # The VBA of Wall Street
+![Stock Market](https://blog.galvanize.com/wp-content/uploads/2020/01/Can-data-science-predict-the-stock-market-.jpg)
 ## Challenge Instructions
 This project utilizes VBA scripting to analyze real stock market data from 2014-2016.
 
