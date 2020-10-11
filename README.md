@@ -1,6 +1,6 @@
 # The VBA of Wall Street
 ## Challenge Instructions
-This project utilizes VBA scripting to analyze real stock market data.
+This project utilizes VBA scripting to analyze real stock market data from 2014-2016.
 
 ## Stock Market Analyst
 - Create a script that will loop through all the stocks for one year and output the following information:
