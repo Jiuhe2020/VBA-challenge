@@ -11,8 +11,8 @@ This project utilizes VBA scripting to analyze real stock market data from 2014-
 - Create conditional formatting that will highlight positive change in green and negative change in red
 
 ## BONUS
-- Return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
-- Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once. (The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button!)
+- Return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume"
+- Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once (The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button!)
 
 ## Screenshots
 - VBA-Result-2014
