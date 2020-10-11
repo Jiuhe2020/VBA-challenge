@@ -20,7 +20,7 @@ This project utilizes VBA scripting to analyze real stock market data.
 - VBA-Result-2015
 ![2015](https://github.com/Jiuhe2020/VBA-challenge/blob/master/VBA-Result-2015.png)
 - VBA-Result-2016
-![2015](https://github.com/Jiuhe2020/VBA-challenge/blob/master/VBA-Result-2016.png)
+![2016](https://github.com/Jiuhe2020/VBA-challenge/blob/master/VBA-Result-2016.png)
 
 ## List of Content
 1. Screenshots for each year (2014-2016) of the results on the Multi Year Stock Data
